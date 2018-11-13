@@ -36,13 +36,17 @@
 }
 
 #deals .shadow {
-	/*float: left;*/
+	float: left;
 	margin-top: 1em;
 	width: 32.2%;
 }
 
 #deals .col-middle {
 	margin: 1em;
+}
+
+#details {
+	margin-top: 0;
 }
 
 #details div {
