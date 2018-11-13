@@ -25,11 +25,11 @@
 /* Positioning Classes */
 
 #featured-brands {
-
+	float: left;
 }
 
 #shoe-archive {
-
+	float: right;
 }
 
 #deals .shadow {
