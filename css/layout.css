@@ -39,6 +39,10 @@
 	width: 33%;
 }
 
+#deals {
+	width: 100%;
+}
+
 #deals .shadow {
 	float: left;
 	margin-top: 1em;
