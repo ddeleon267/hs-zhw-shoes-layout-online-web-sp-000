@@ -38,11 +38,11 @@
 #deals .shadow {
 	float: left;
 	margin-top: 1em;
-	width: 32.2%;
+	width: 3.2%;
 }
 
 #deals .col-middle {
-	/*margin: 1em;*/
+	margin: 1em;
 }
 
 #details div {
