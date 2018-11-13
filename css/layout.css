@@ -45,9 +45,7 @@
 	margin: 1em;
 }
 
-#details {
-	margin-top: 0;
-}
+/* MARGIN AT THE TOP OF DETAILS??? */
 
 #details div {
 	width: 31%;
