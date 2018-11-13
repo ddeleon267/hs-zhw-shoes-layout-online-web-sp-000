@@ -24,6 +24,10 @@
 
 /* Positioning Classes */
 
+h2 {
+	margin-top: 1em;
+}
+
 #featured-brands {
 	float: left;
 	width: 65%;
